@@ -1,2 +1,17 @@
 // Use this file to define style overrides for @edx/paragon
 // This file is included after all Paragon styles, but should generally avoid using private mixins in Paragon.
+
+
+//Font overrides
+html, body {
+  font-family: 'Manrope' !important;
+}
+h1, h2, h3, h4, h5, h6, span, a, p, li {
+  font-family: 'Manrope'!important;
+}
+button,
+input,
+textarea,
+select {
+  font-family: inherit !important;
+}

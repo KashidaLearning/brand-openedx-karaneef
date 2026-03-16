@@ -1,2 +1,23 @@
 // Use this file to set SASS variables for @edx/paragon
 // See _variables.scss in https://github.com/openedx/paragon/blob/master/scss/core/ for reference
+
+
+//Theme Colors
+
+// Primary colors palette
+$primary-dark-teal: #0A2940;
+$primary-teal: #326A73;
+$primary-camel: #E1C6A6;
+$primary-beige: #FCF0DE;
+
+// Secondary colors palette
+$secondary-coral: #FF6B61;
+$secondary-sunflower: #C39B4B;
+$secondary-aqua-teal: #44C8CC;
+$secondary-sage-blue: #82AAD2;
+$secondary-dusty-rose: #D8688D;
+
+
+// Theme fonts
+$font-family-base: 'Manrope', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$font-family-title: 'Manrope', sans-serif;
