@@ -25,3 +25,28 @@ line-height: 48.5px !important;
 letter-spacing: 0%;
 color: #0A2940 !important
 }
+
+// Dashboard MFE button 
+
+.btn-primary {
+    background-color: #0a3055;
+    border-color: #0a3055;
+    color: #fff;
+    border-top-left-radius: 10px !important;
+    border-bottom-left-radius: 10px !important;
+    border-bottom-right-radius: 10px !important;
+    border-top-right-radius: 0 !important;
+}
+
+// Footer Padding
+
+.custom-footer .footer-inner {
+padding: 0 30px;
+}
+
+// Learning MFE navigation buttons
+.unit-navigation .next-button:hover,
+.unit-navigation .previous-button:hover {
+    background: #326A73 !important;
+}
+
