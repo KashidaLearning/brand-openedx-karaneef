@@ -9,6 +9,13 @@ html, body {
 h1, h2, h3, h4, h5, h6, span, a, p, li {
   font-family: 'Manrope'!important;
 }
+
+[dir="rtl"],
+[lang="ar"] {
+   h1, h2, h3, h4, h5, h6, span, a, p, li {
+        font-family: 'Noto Sans Arabic' !important;
+    }
+}
 button,
 input,
 textarea,
