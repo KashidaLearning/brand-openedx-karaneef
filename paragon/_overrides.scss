@@ -4,23 +4,23 @@
 
 //Font overrides
 html, body {
-  font-family: 'Manrope' !important;
+  font-family: 'Manrope';
 }
 h1, h2, h3, h4, h5, h6, span, a, p, li {
-  font-family: 'Manrope'!important;
+  font-family: 'Manrope';
 }
 
 [dir="rtl"],
 [lang="ar"] {
    h1, h2, h3, h4, h5, h6, span, a, p, li {
-        font-family: 'Noto Sans Arabic' !important;
+        font-family: 'Noto Sans Arabic';
     }
 }
 button,
 input,
 textarea,
 select {
-  font-family: inherit !important;
+  font-family: inherit;
 }
 
 h3, .h3 {
