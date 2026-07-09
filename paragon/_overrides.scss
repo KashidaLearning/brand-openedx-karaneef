@@ -5,6 +5,11 @@
 //Font overrides
 html, body {
   font-family: 'Manrope';
+
+[dir=rtl] body {
+    text-align: right;
+    font-family: 'Noto Sans Arabic';
+}
 }
 h1, h2, h3, h4, h5, h6, span, a, p, li {
   font-family: 'Manrope';
